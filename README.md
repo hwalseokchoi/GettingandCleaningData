@@ -1,1 +1,6 @@
+This is my course project for the getting and cleaning data.
 
+1. First, download the dataset from web. Merge the training and test datas respectively into variable x, y and s. 
+2. Load the data feature, activity info and extract columns "mean" and "standard". 
+3. Extract data by selected columns, and merge variable x, y and s. 
+4. Generate 'tidy_dataset' that consists of the mean of each variable for each subject and each activity. The result file is generated in the working directory named "tidy_dataset.txt"
