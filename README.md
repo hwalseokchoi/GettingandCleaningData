@@ -1,4 +1,5 @@
 This is my course project for the getting and cleaning data.
+============================================================
 
 1. First, download the dataset from web (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Merge the training and test datas respectively into variable x, y and s using rbind() function.
 2. Load the data feature, activity info and extract columns "mean" and "standard" from features.txt.
